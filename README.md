@@ -1,5 +1,6 @@
 # GitPass
 
+//hashsan.github.io/Octo/Octo2.js
 
 ```
 var url =new GitPass({owner,repo,path})
