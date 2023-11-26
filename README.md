@@ -8,7 +8,7 @@ var url =new GitPass({owner,repo,path})
  .save_url
  .summary_url
  .repo_url
- .pages_url
+ .url
  .auth_url
  .repos_url //user all repos
 ```
